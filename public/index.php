@@ -10,7 +10,7 @@ if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php'))
 }
 if (php_sapi_name() === 'cli-server') {
     $_SERVER['SERVER_NAME'] = '0.0.0.0';
-    $_SERVER['SERVER_PORT'] = getenv('PORT') ?: 8000;
+    $_SERVER['SERVER_PORT'] = getenv('PORT') ?: 9000;
 }
 
 // Register the Composer autoloader...
