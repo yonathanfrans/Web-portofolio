@@ -167,7 +167,7 @@ body.dark-mode .contact-containers {
 
 .picture-shadow {
     position: absolute;
-    left: 10%;
+    left: 8%;
     bottom: 15%;
     width: 80%;
     height: 25px; 
@@ -436,6 +436,11 @@ footer p {
     margin-bottom: 4rem;
 }
 
+@media screen and (max-width: 1280px) {
+    .picture-shadow {
+        left: 19%;
+    }
+}
 
 @media screen and (max-width: 1200px) {
     #profile {
@@ -544,7 +549,7 @@ footer p {
     }
     .picture-shadow {
         bottom: 10%;
-        left: 10%;
+        left: 11%;
         height: 30px;
     }
     .about-box {
@@ -642,7 +647,7 @@ footer p {
     }
     .picture-shadow {
         bottom: 10%;
-        left: 22%;
+        left: 21%;
         width: 60%;
     }
     .picture-box {

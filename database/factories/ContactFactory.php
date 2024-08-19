@@ -17,12 +17,7 @@ class ContactFactory extends Factory
     public function definition(): array
     {
         return [
-            'icon' => '[
-                {"nama": "bx bxl-gmail", "warna": "#D14836"},
-                {"nama": "bx bxl-linkedin", "warna": "#0077B5"},
-                {"nama": "bx bxl-instagram", "warna": "#E4405F"},
-                {"nama": "bx bxl-telegram", "warna": "#0088CC"}
-            ]',
+            'icon' => '[{"name":"gmail","value":2,"icon":"bx bxl-gmail","color":"#D14836"}]',
             'name' => fake()->sentence(2),
             'link' => fake()->url,
         ];
