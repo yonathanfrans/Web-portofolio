@@ -113,6 +113,7 @@ Desain website ini dapat dilihat di Figma melalui tautan berikut:
 
 Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
 - **Email**: [yonatanfrans07@gmail.com](mailto:yonatanfrans07@gmail.com)
+- **Linkedin**: [yonathanfrans](https://www.linkedin.com/in/yonathanfrans/)
 - **Instagram**: [@yonathanfrans_](https://www.instagram.com/yonathanfrans_)
 
 ---
